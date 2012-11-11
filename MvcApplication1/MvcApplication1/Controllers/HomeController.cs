@@ -12,7 +12,7 @@ namespace MvcApplication1.Controllers
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
 
-            string modify = "changed";
+            string modify = "changedToSomethingElse";
             return View();
         }
 
